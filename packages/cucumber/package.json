@@ -47,7 +47,7 @@
     "@cucumber/messages": "^15.0.0",
     "@serenity-js/core": "2.28.1",
     "cli-table3": "^0.6.0",
-    "gherkin": "5.1.0",
+    "gherkin": "9.0.0",
     "tiny-types": "^1.16.1"
   },
   "peerDependencies": {
